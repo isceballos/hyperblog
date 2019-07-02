@@ -13,3 +13,5 @@ Un blog de práctica para el curso de Git y Github de Platzi.
 - Fork a un repositorio.
 - Archivo .gitignore.
 * Creado por el increíble Platzi team
+* Incluye ejemplos en Win, Lin, Mac
+* Disponible para todas las edades.
